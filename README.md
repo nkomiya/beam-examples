@@ -1,9 +1,9 @@
-# beam-examples
+# io
 
-Apache Beam sample codes
+Sample codes for reading from, or writing to various data sources.
 
-## Branches
+## Samples
 
-Branch name|Description
-:--|:--
-master|manage branches
+|IO|Read/Write|Class path|
+|:--|:--|:--|
+|TextIO|Read|com.examples.beam.reader.TextIOReader|
